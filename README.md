@@ -10,6 +10,5 @@ Faily simple UI. Add Item to input and press enter or hit the add button.
 
 ```
 Just Clone and run through your browser/IDE
-
 ```
 
